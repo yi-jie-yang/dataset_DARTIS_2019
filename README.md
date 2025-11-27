@@ -1,4 +1,4 @@
-# README
+# Programs for working on SAR dataset with oil slicks, look-alikes and other remarkable signatures (DARTIS\_2019)
 
 This repository provides programs for the dataset submitted to PANGAEA, which was submitted along with the data description paper.
 
@@ -115,6 +115,7 @@ If users used other detection formats, please check the following part of the pr
       "ymax": (float(coord["center_y"])+float(coord["height"])/2)*img_height
   }
   ```
+
 
 
 
